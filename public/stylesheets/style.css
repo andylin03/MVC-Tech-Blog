@@ -37,12 +37,12 @@
   textarea, input {
     padding: .5%;
     border-radius: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid bisque;
   }
   
   textarea:focus, input:focus {
     outline: none;
-    border: 1px solid #3486eb;
+    border: 1px solid red;
   }
   
   textarea {
